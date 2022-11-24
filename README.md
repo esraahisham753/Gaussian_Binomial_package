@@ -1,4 +1,8 @@
 # Gaussian and Binomial distribution
+
+## Installation
+pip install essdistributions
+
 ## Gaussian Class:
 ### Attributes: 
 * mean (float) representing the mean value of the distribution.
